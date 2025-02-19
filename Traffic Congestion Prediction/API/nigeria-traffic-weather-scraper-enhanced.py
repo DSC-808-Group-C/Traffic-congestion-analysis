@@ -165,8 +165,8 @@ class NigeriaTrafficScraper:
 
 # Example usage with expanded locations
 if __name__ == "__main__":
-    google_api_key = "AIzaSyCvxCg_9PIjsPorJKnouLJjabcuRHjPKiA"
-    weather_api_key = "d69e99a0767df0be8e9bb9e0f810adf7"
+    google_api_key = "Your API KEY"
+    weather_api_key = "Your API KEY"
     
     locations = [
         # Lagos routes
